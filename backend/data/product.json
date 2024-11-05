@@ -1,59 +1,76 @@
 [
-    {
-      "id": 1,
-      "title": "Laptop",
-      "price": 999,
-      "description": "High-performance laptop",
-      "image": "https://via.placeholder.com/300x200?text=Laptop"
-    },
-    {
-      "id": 2,
-      "title": "Phone",
-      "price": 499,
-      "description": "Latest smartphone",
-      "image": "https://via.placeholder.com/300x200?text=Smartphone"
-    },
-    {
-      "id": 3,
-      "title": "Tablet",
-      "price": 299,
-      "description": "Portable tablet",
-      "image": "https://via.placeholder.com/300x200?text=Tablet"
-    },
-    {
-      "id": 4,
-      "title": "Smart Watch",
-      "price": 199,
-      "description": "Feature-rich smartwatch",
-      "image": "https://via.placeholder.com/300x200?text=Smart+Watch"
-    },
-    {
-      "id": 5,
-      "title": "Headphones",
-      "price": 149,
-      "description": "Noise-cancelling headphones",
-      "image": "https://via.placeholder.com/300x200?text=Headphones"
-    },
-    {
-      "id": 6,
-      "title": "Camera",
-      "price": 599,
-      "description": "Professional camera",
-      "image": "https://via.placeholder.com/300x200?text=Camera"
-    },
-    {
-      "id": 7,
-      "title": "Smart TV",
-      "price": 799,
-      "description": "55-inch Smart TV",
-      "image": "https://via.placeholder.com/300x200?text=Smart+TV"
-    },
-    {
-      "id": 8,
-      "title": "Bluetooth Speaker",
-      "price": 79,
-      "description": "Portable Bluetooth speaker",
-      "image": "https://via.placeholder.com/300x200?text=Bluetooth+Speaker"
-    }
-  ]
+  {
+    "id": 1,
+    "title": "Laptop",
+    "price": 999,
+    "description": "High-performance laptop",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 2,
+    "title": "Phone",
+    "price": 499,
+    "description": "Latest smartphone",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 3,
+    "title": "Tablet",
+    "price": 299,
+    "description": "Portable tablet",
+    "image": "https://images.unsplash.com/photo-1510557880182-3a935e4a276c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 4,
+    "title": "Smart Watch",
+    "price": 199,
+    "description": "Feature-rich smartwatch",
+    "image": "https://images.unsplash.com/photo-1545060894-5a79293ad7b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 5,
+    "title": "Headphones",
+    "price": 149,
+    "description": "Noise-cancelling headphones",
+    "image": "https://images.unsplash.com/photo-1518365352118-8d1c978111c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 6,
+    "title": "Camera",
+    "price": 599,
+    "description": "Professional camera",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962f9c5648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 7,
+    "title": "Smart TV",
+    "price": 799,
+    "description": "55-inch Smart TV",
+    "image": "https://images.unsplash.com/photo-1566552574582-6992dc0d9ebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 8,
+    "title": "Bluetooth Speaker",
+    "price": 79,
+    "description": "Portable Bluetooth speaker",
+    "image": "https://images.unsplash.com/photo-1585386959984-a415522540d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 9,
+    "title": "Gaming Console",
+    "price": 299,
+    "description": "Next-gen gaming console",
+    "image": "https://images.unsplash.com/photo-1606813905426-0089b66c3be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  },
+  {
+    "id": 10,
+    "title": "Wireless Earbuds",
+    "price": 99,
+    "description": "True wireless earbuds",
+    "image": "https://images.unsplash.com/photo-1592194996308-7b43858e606e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300"
+  }
+]
+
+
+
   
